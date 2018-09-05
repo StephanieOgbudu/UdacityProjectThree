@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+hr
+{
+    height: 5px;
+    background-image: linear-gradient(90deg, #eeeeee, blue, red, purple, #000000);
+    border: #eeeeee;
+    border-radius: 5px;
+}
+h1, h2
+{
+    text-align: right;
+}
