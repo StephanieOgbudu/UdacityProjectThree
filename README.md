@@ -7,6 +7,11 @@ Kindly help him accomplish that.
 
 ## Instructions
 Use the arrow-up, arrow-down, arrow-left & arrow-right to manipulate around the game.
-To load the game locally, you can clone or download the game and click on the index.html file
+
+## To load the game locally
+1. It can be cloned from this repository:
+   https://github.com/StephanieOgbudu/UdacityProjectThree
+2. Click index.html and it will load on the browser
+3. Enjoy the game
 
 # HAVE FUN!
