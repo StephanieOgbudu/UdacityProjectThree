@@ -7,5 +7,6 @@ Kindly help him accomplish that.
 
 ## Instructions
 Use the arrow-up, arrow-down, arrow-left & arrow-right to manipulate around the game.
+To load the game locally, you can clone or download the game and click on the index.html file
 
 # HAVE FUN!
